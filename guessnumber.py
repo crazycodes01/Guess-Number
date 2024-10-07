@@ -16,4 +16,4 @@ for i in range(3):
         print("Your guess is lesser")
     
 if(myguess != number):
-    print("GAME OVER!")
+    print("GAME OVER! ")
